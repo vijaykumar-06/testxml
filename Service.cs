@@ -12,6 +12,7 @@ namespace small_prgrms
     {
         public int CheckXml(string inputXml)
         {
+            // A test code change
             /*
               <InputDocument>
 	            <DeclarationList>
@@ -82,6 +83,7 @@ namespace small_prgrms
                 }
             }
             return result;
+            //End of changes
         }
     }
 }
